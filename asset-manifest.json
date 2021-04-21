@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8a7cdf9.chunk.css",
+    "main.js": "/static/js/main.dc0216d7.chunk.js",
+    "main.js.map": "/static/js/main.dc0216d7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.60c30cbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.60c30cbc.js.map",
+    "static/js/2.a0b6843a.chunk.js": "/static/js/2.a0b6843a.chunk.js",
+    "static/js/2.a0b6843a.chunk.js.map": "/static/js/2.a0b6843a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d8a7cdf9.chunk.css.map": "/static/css/main.d8a7cdf9.chunk.css.map",
+    "static/js/2.a0b6843a.chunk.js.LICENSE.txt": "/static/js/2.a0b6843a.chunk.js.LICENSE.txt",
+    "static/media/Gaara.f99ec330.png": "/static/media/Gaara.f99ec330.png",
+    "static/media/Ino.dddffde3.png": "/static/media/Ino.dddffde3.png",
+    "static/media/Itachi.15659d69.png": "/static/media/Itachi.15659d69.png",
+    "static/media/Jiraiya.b65903d6.png": "/static/media/Jiraiya.b65903d6.png",
+    "static/media/Kakashi.32c4aff5.png": "/static/media/Kakashi.32c4aff5.png",
+    "static/media/Lee.e2f3a339.png": "/static/media/Lee.e2f3a339.png",
+    "static/media/Naruto.4b358c5d.png": "/static/media/Naruto.4b358c5d.png",
+    "static/media/Neji.dad2da9b.png": "/static/media/Neji.dad2da9b.png",
+    "static/media/Obito.90e2c3a6.png": "/static/media/Obito.90e2c3a6.png",
+    "static/media/Orochimaru.158f611c.png": "/static/media/Orochimaru.158f611c.png",
+    "static/media/Sakura.e963652e.png": "/static/media/Sakura.e963652e.png",
+    "static/media/Sasuke.b0385c0e.png": "/static/media/Sasuke.b0385c0e.png",
+    "static/media/Shikamaru.36f5fa6e.png": "/static/media/Shikamaru.36f5fa6e.png",
+    "static/media/Tobi.975aca52.png": "/static/media/Tobi.975aca52.png",
+    "static/media/Tsunade.bcbab5d4.png": "/static/media/Tsunade.bcbab5d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c30cbc.js",
+    "static/js/2.a0b6843a.chunk.js",
+    "static/css/main.d8a7cdf9.chunk.css",
+    "static/js/main.dc0216d7.chunk.js"
+  ]
+}
