@@ -1,22 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import React, {useState, useEffect} from "react";
+import Score from "./components/Score.js";
+import Board from './components/Borad';
 
 function App() {
+  const [score, setScore] = useState(0);
+  const [bestScore, setBestScore] = useState(0);
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
+        <h1>Naruto Memory Game</h1>
+        <Score score={score} bestScore={bestScore}/>
+        <Board
+          score={score}
+          bestScore={bestScore}
+          setScore={setScore}
+          setBestScore={setBestScore}
+        />
       </header>
     </div>
   );
